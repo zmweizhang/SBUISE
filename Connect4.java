@@ -1,5 +1,5 @@
 import java.util.*;
-public class connect {
+public class Connect4 {
 	static int red = 0;
 	static int yellow = 0;
 	static int row = 0;
